@@ -51,7 +51,7 @@ Returns a mock balance value (used for demonstration purposes).
 
 **Contract Address:**
 CAALZQZR4PBZ7GULUBP5CNYKOPNT6ITLMHORM5PCTHVNVM37P4XW3JRP
-
+https://stellar.expert/explorer/testnet/contract/CAALZQZR4PBZ7GULUBP5CNYKOPNT6ITLMHORM5PCTHVNVM37P4XW3JRP
 ---
 
 ## 🧪 Tech Stack
